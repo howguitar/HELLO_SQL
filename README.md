@@ -2,7 +2,7 @@
 
 ### Ejercicios de práctica para aprender los fundamentos del lenguaje SQL y las bases de datos relacionales
 
-![](./Images/header.jpg)
+![](./Images/header_sql.jpg)
 
 ### Fundamentos de Bases de Datos | Sentencias SQL | Despliegue en la Nube
 
